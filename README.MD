@@ -49,6 +49,6 @@ java -jar slack2easemobkefu-0.0.1-SNAPSHOT.jar
 
 ## 后续
 
-因为该服务需要公网地址才可以让Slack回调，所以我在https://www.heroku.com这个网站上申请了个应用，可以实时部署，并且有公网域名，可以免费用，但是不能使用redis、mysql等，所以我这个程序也没有任何持久化存储
+因为该服务需要公网地址才可以让Slack回调，所以我在 https://www.heroku.com 这个网站上申请了个应用，可以实时部署，并且有公网域名，可以免费用，但是不能使用redis、mysql等，所以我这个程序也没有任何持久化存储
 
 如何使用heroku请自行百度或者官网，很简单
